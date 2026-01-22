@@ -1,0 +1,21 @@
+DeliveryPartnerKey,PartnerID,PartnerName,PartnerType
+1,DP001,Swiggy Genie,Outsourced
+2,DP002,Zomato Delivery,Outsourced
+3,DP003,Dunzo,Outsourced
+4,DP004,Rapido Delivery,Outsourced
+5,DP005,Shadowfax,Outsourced
+6,DP006,Delhivery,Outsourced
+7,DP007,Ecom Express,Outsourced
+8,DP008,Blue Dart,Outsourced
+9,DP009,XpressBees,Outsourced
+10,DP010,DTDC,Outsourced
+11,DP011,QuickBite Fleet,InHouse
+12,DP012,CityDash Logistics,InHouse
+13,DP013,FastTrack Riders,InHouse
+14,DP014,UrbanEats Fleet,InHouse
+15,DP015,SpeedGo Delivery,InHouse
+16,DP016,MetroMeals Logistics,InHouse
+17,DP017,DailyDrop Services,InHouse
+18,DP018,FlashServe,InHouse
+19,DP019,ExpressEats,InHouse
+20,DP020,PrimeRoute Delivery,InHouse

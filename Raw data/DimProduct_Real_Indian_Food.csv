@@ -1,0 +1,51 @@
+ProductKey,ProductID,ProductName,Category,SubCategory
+1,PROD001,Chicken Biryani,Fast Food,Meal
+2,PROD002,Veg Biryani,Fast Food,Meal
+3,PROD003,Paneer Butter Masala,Fast Food,Meal
+4,PROD004,Butter Naan,Fast Food,Side
+5,PROD005,Chicken Burger,Fast Food,Meal
+6,PROD006,Veg Burger,Fast Food,Meal
+7,PROD007,French Fries,Fast Food,Side
+8,PROD008,Masala Dosa,Fast Food,Meal
+9,PROD009,Idli Sambar,Fast Food,Meal
+10,PROD010,Vada Pav,Fast Food,Snack
+11,PROD011,Samosa,Fast Food,Snack
+12,PROD012,Pav Bhaji,Fast Food,Meal
+13,PROD013,Chicken Pizza,Fast Food,Meal
+14,PROD014,Veg Pizza,Fast Food,Meal
+15,PROD015,Chicken Fried Rice,Fast Food,Meal
+16,PROD016,Veg Fried Rice,Fast Food,Meal
+17,PROD017,Chicken Noodles,Fast Food,Meal
+18,PROD018,Veg Noodles,Fast Food,Meal
+19,PROD019,Paneer Roll,Fast Food,Snack
+20,PROD020,Chicken Roll,Fast Food,Snack
+21,PROD021,Cold Coffee,Beverages,Drink
+22,PROD022,Hot Coffee,Beverages,Drink
+23,PROD023,Masala Tea,Beverages,Drink
+24,PROD024,Green Tea,Beverages,Drink
+25,PROD025,Coke 500ml,Beverages,Drink
+26,PROD026,Pepsi 500ml,Beverages,Drink
+27,PROD027,Orange Juice,Beverages,Drink
+28,PROD028,Mango Juice,Beverages,Drink
+29,PROD029,Mineral Water,Beverages,Drink
+30,PROD030,Lassi,Beverages,Drink
+31,PROD031,Caesar Salad,Healthy,Side
+32,PROD032,Green Salad,Healthy,Side
+33,PROD033,Fruit Bowl,Healthy,Side
+34,PROD034,Grilled Paneer,Healthy,Meal
+35,PROD035,Grilled Chicken,Healthy,Meal
+36,PROD036,Sprouts Salad,Healthy,Side
+37,PROD037,Oats Bowl,Healthy,Meal
+38,PROD038,Veg Sandwich,Healthy,Meal
+39,PROD039,Chicken Sandwich,Healthy,Meal
+40,PROD040,Boiled Eggs,Healthy,Side
+41,PROD041,Chocolate Brownie,Desserts,Snack
+42,PROD042,Gulab Jamun,Desserts,Snack
+43,PROD043,Ice Cream Vanilla,Desserts,Snack
+44,PROD044,Ice Cream Chocolate,Desserts,Snack
+45,PROD045,Fruit Custard,Desserts,Snack
+46,PROD046,Rasgulla,Desserts,Snack
+47,PROD047,Chocolate Cake,Desserts,Snack
+48,PROD048,Muffin,Desserts,Snack
+49,PROD049,Donut,Desserts,Snack
+50,PROD050,Cheesecake,Desserts,Snack
